@@ -1,4 +1,4 @@
-from collections
+from collections import Collection
 
 
 if __name__ == '__main__':
