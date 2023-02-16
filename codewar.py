@@ -1,7 +1,11 @@
 from collections import Counter
 
 
+def first_function():
+    ...
+
+
 if __name__ == '__main__':
-    result = first_function()
-    print(result)
+    print(first_function())
+
     
